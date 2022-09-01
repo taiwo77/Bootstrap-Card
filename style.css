@@ -1,0 +1,59 @@
+*{
+    background-color: rgb(252, 224, 214);
+    text-align: center;
+    margin-left: 20px;
+}
+.col-sm-3 {
+    border: 2px solid;
+    border-color: white;
+    border-radius: 10px;
+    background-color: white;
+}
+.perfume{
+   font-size: 13px ;
+   text-align: start;
+   padding-top: 30px;
+   background-color: white;
+   
+}
+.text-1{
+    font-size: large;
+    font-weight: 700;
+    background-color: white;
+    
+
+}
+.text-2{
+    font-size: 14px;
+    background-color: white;
+
+}
+.amount{
+    font-family: "fraunces";
+    font-weight: bold;
+    color: rgb(5, 141, 89);
+    font-size: xx-large;
+    line-height: 30px;
+    padding-right: 100px;
+    padding-top: 30px;
+    background-color: white;
+    
+}
+.del{
+    top: 0px;
+    padding-right: 0px;
+    font-size: small;
+    color: black;
+    background-color: white !important;
+}
+.btn{
+    background-color: rgb(5, 141, 89);
+    text-decoration-color: white ;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 13px;
+}
+.logo{
+    padding-right: 10px;
+    background-color: rgb(5, 141, 89);
+}
